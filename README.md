@@ -1,5 +1,7 @@
 # Rust Universal Machine
 
+Developed by Lisandro Nunez and Benjamin Chau  
+
 An implementation of a simple 32-bit virtual machine in Rust.
 Inspired by the Universal Machine challenge from the 2006 ICFP Programming contest.
 
